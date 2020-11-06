@@ -2,7 +2,7 @@
 
 body
 {
-background-color: #e1e8ea;
+  background-image : no-repeat;
 }
 
 #arriba{
@@ -16,7 +16,7 @@ background-color: #e1e8ea;
 
 #article1
 {
-background-color: rgb(165,182,188);
+background-color: rgb(232,236,238);
  margin-right: 60px;
  margin-left: 60px;
  padding: 30px;
@@ -24,7 +24,7 @@ background-color: rgb(165,182,188);
 
 #article2
 {
-background-color: rgb(165,182,188);
+background-color:  rgb(232,236,238);
  margin-right: 60px;
  margin-left: 60px;
  padding: 30px;
@@ -32,7 +32,7 @@ background-color: rgb(165,182,188);
 
 #article3
 {
-background-color: rgb(165,182,188);
+background-color:  rgb(232,236,238);
  margin-right: 60px;
  margin-left: 60px;
  padding: 30px;
