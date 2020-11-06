@@ -20,3 +20,9 @@
   width: 600px; 
   height: 400px;
 }
+
+.texto{
+  text-align: justify;
+  text-align-last: center;
+  font-family:arial;
+}
