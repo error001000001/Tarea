@@ -37,6 +37,12 @@ background-color: rgb(165,182,188);
  margin-left: 60px;
  padding: 30px;
 }
+
+#footer{
+background-color: white;
+ padding: 30px;
+ margin: auto;
+}
 .titulos{
  margin:20px;
  text-align:center;
