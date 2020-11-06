@@ -2,7 +2,7 @@
 
 body
 {
-background-color:white;
+background-color: #e1e8ea;
 }
 
 #arriba{
@@ -14,10 +14,33 @@ background-color:white;
   height: 200px;
 }
 
+#article1
+{
+background-color: rgb(165,182,188);
+ margin-right: 60px;
+ margin-left: 60px;
+ padding: 30px;
+}
+
+#article2
+{
+background-color: rgb(165,182,188);
+ margin-right: 60px;
+ margin-left: 60px;
+ padding: 30px;
+}
+
+#article3
+{
+background-color: rgb(165,182,188);
+ margin-right: 60px;
+ margin-left: 60px;
+ padding: 30px;
+}
 .titulos{
  margin:20px;
  text-align:center;
- font-family:arial;
+ font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
 }
 
 .imagenes{
@@ -30,5 +53,5 @@ background-color:white;
 .texto{
   text-align: justify;
   text-align-last: center;
-  font-family:arial;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
 }
