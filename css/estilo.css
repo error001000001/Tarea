@@ -1,11 +1,17 @@
 @charset "UTF-8";
 
+body
+{
+background-color:white;
+}
+
+#arriba{
+ background-color:#dae2e5;
+}
 
 #imagenheader{
-  display: block;
-  margin: 1px auto;
-  width: 300px; 
-  height: 45px;
+  width: 1349px; 
+  height: 200px;
 }
 
 .titulos{
